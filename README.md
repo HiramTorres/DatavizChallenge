@@ -1,6 +1,6 @@
-## Visualización de datos para reto de DatavizChallenge por FutureLab 
+## Visualización de datos 
 
-Se utilizarán algunas librerías para el analisis de datos, y visualización de los mismos como los son: 
+Utilizando algunas librerías para el analisis de datos, y visualización de los mismos como los son: 
 * **Pandas**
 * **Numpy** 
 * **Matplotlib**
